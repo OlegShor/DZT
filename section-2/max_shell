@@ -1,2 +1,2 @@
-echo $SHELL
+echo $SHELL 
 /usr/bin/bash
