@@ -1,1 +1,1 @@
-runlevel
+systemctl list-units --type=target --state=active
