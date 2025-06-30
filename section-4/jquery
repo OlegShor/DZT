@@ -1,2 +1,2 @@
 sudo apt search jQuery
-sudo apt install libjs-jquer
+sudo apt install libjs-jquery
