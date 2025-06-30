@@ -1,0 +1,2 @@
+sudo apt edit-sourse
+в фаиле найти и удалить репозиторий jammy-security universe
