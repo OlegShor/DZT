@@ -1,0 +1,2 @@
+sudo apt search jQuery
+sudo apt install libjs-jquery
