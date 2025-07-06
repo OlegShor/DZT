@@ -21,4 +21,4 @@
 # For more information see the manual pages of crontab(5) and cron(8)
 # 
 # m h  dom mon dow   command
-1 0 * * * sudo apt apdate && sudo apt upgrate -y
+1 0 * * * sudo apt update && sudo apt upgrade -y
