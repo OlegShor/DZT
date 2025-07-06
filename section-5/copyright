@@ -1,1 +1,1 @@
-grep ^[ ]*[0-9] docs/gzip/copyright
+grep ^[0-9] docs/gzip/copyright

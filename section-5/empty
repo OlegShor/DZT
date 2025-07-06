@@ -1,1 +1,1 @@
-grep -l -r . ~/empty/
+grep -l -r 'You got me!'  ~/empty/
