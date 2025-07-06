@@ -1,0 +1,2 @@
+sudo apt edit-sources
+закоментировать строчку с репозиторием 'jammy-security universe' символом '#'
