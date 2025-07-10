@@ -1,1 +1,1 @@
-find ~/owner/ -tipe f -perm 400
+find ~/owner/ -type f -perm 400
