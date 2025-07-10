@@ -1,2 +1,2 @@
-grooupadd -g 1055 develpors
-usermod -g developers
+groupadd -g 1055 developers
+usermod -g developers alena

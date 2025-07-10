@@ -1,1 +1,1 @@
-sudo ls -l owner | grep ^-r-
+find ~/owner/ -tipe f -perm 400
