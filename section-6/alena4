@@ -1,0 +1,2 @@
+groupadd -g 1055 developers
+usermod -g developers alena
