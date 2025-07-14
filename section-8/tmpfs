@@ -1,1 +1,1 @@
-mkfs.tmpfs /mnt/tmp-dat 100MiB
+sudo mount -t tmpfs -o size=100M tmpfs /mnt/tmp-data

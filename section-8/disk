@@ -1,4 +1,4 @@
-sudo fdisk /dev/sdb
+sudo fdisk /dev/vdb
 d
 1
 w
