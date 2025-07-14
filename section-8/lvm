@@ -1,0 +1,6 @@
+sudo pvcreate /dev/vdb /dev/sdc
+sudo vgcreate volume1 /dev/sdb1 /dev/sdc
+sudo lvcreate -l -n vol-test volum1
+sudo mkfs.XFS /dev/volume1/storage
+sudo mount /dev/volume1/storage /storage
+sudo echo '/dev/volum1/storage /storage XFS rw 0 0' > /etc/fsab

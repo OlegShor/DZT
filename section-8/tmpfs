@@ -1,0 +1,1 @@
+mkfs.tmpfs /mnt/tmp-dat 100MiB

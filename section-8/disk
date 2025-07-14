@@ -1,0 +1,4 @@
+sudo fdisk /dev/sdb
+d
+1
+w
