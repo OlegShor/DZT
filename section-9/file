@@ -1,1 +1,1 @@
-systemctl status ssh
+systemctl show ssh -p FragmentPath
