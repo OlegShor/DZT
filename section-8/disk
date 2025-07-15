@@ -1,6 +1,0 @@
-Убедится что диск не используется LVM и выполнить команду
-sudo fdisk -l /dev/vdb
-sudo fdisk /dev/vdb
-d
-указать номер vdb1
-w
